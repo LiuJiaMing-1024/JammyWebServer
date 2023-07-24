@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/JammyHttpRequest.h
+map
+-
+string
+-
+
+../include/server_tool.h
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+netdb.h
+-
+arpa/inet.h
+-
+pthread.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+config.h
+-
+
+/home/ljm/share/jammy_web/src/test.cpp
+server_tool.h
+-
+JammyHttpRequest.h
+-
+
+config.h
+

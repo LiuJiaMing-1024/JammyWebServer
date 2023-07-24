@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/jammy_server.dir/src/jammy_server.cpp.o CMakeFiles/jammy_server.dir/src/server_tool.cpp.o CMakeFiles/jammy_server.dir/src/JammyHttpRequest.cpp.o  -o jammy_server  -lpthread 

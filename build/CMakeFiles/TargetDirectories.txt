@@ -1,0 +1,5 @@
+/home/ljm/share/jammy_web/build/CMakeFiles/rebuild_cache.dir
+/home/ljm/share/jammy_web/build/CMakeFiles/edit_cache.dir
+/home/ljm/share/jammy_web/build/CMakeFiles/test.dir
+/home/ljm/share/jammy_web/build/CMakeFiles/jammy_client.dir
+/home/ljm/share/jammy_web/build/CMakeFiles/jammy_server.dir
